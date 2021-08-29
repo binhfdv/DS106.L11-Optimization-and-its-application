@@ -1,1 +1,1 @@
-# Applied-Optimization
+# Optimization ans its application
